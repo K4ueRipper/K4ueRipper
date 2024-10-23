@@ -27,7 +27,7 @@ Estou sempre a procura de aprender novas tecnologias.
 - ETEC São Paulo: Desenvolvimento de Sistemas (2021 - 2023)
 
 ### 📫 **Como me encontrar:**
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/kaue-ripper/)
+[![Linkedin](https://img.shields.io/badge/-KauêRipper-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/kaue-ripper/)
 [![Gmail Badge](https://img.shields.io/badge/-ripperkaue@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:ripperkaue@gmail.com)
   
   Estou aberto a novas colaborações e projetos que envolvam desenvolvimento web e mobile!
