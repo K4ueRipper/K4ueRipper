@@ -8,7 +8,7 @@ Estou sempre a procura de aprender novas tecnologias.
 - **Linguagens:** 
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=DD0031)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typecript)
+  ![TypeScript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
